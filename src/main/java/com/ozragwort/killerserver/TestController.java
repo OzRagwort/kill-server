@@ -1,3 +1,5 @@
+package com.ozragwort.killerserver;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.concurrent.TimeUnit;
